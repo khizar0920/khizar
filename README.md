@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizar0920
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS,PHP,javascript
+- 🌱 I’m currently learning HTML,CSS,PHP,javascript,nodejs,laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khizar0920.github.io/khizar0920/
 
